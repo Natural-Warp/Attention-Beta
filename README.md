@@ -82,31 +82,31 @@ Your feedback will help shape the future of Attention.
 
 ### Dashboard
 
-![Attention Dashboard](screenshots/01-dashboard.png)
+![Attention Dashboard](screenshots/01-dashboard.jpg)
 
 ### Settings
 
-![Settings](screenshots/02-settings.png)
+![Settings](screenshots/02-settings.jpg)
 
 ### My Focus
 
-![My Focus](screenshots/03-my-focus.png)
+![My Focus](screenshots/03-my-focus.jpg)
 
 ### Monitor the apps that matter
 
-![Monitored Apps](screenshots/04-select-the-apps.png)
+![Monitored Apps](screenshots/04-select-the-apps.jpg)
 
 ### Set a gentle reminder
 
-![Set Your Reminder](screenshots/05-reminder-time-limit.png)
+![Set Your Reminder](screenshots/05-reminder-time-limit.jpg)
 
 ### Simple onboarding
 
-![Attention is Ready](screenshots/07-ready.png)
+![Attention is Ready](screenshots/07-ready.jpg)
 
 ### Why Attention exists
 
-![Why Attention exists](screenshots/06-manifesto.png)
+![Why Attention exists](screenshots/06-manifesto.jpg)
 
 ---
 

@@ -82,7 +82,7 @@ Your feedback will help shape the future of Attention.
 
 ### Dashboard
 
-![Attention Dashboard](screenshots/01-dashboard.jpg)
+<img src="screenshots/dashboard.jpg" alt="Attention Dashboard" width="300">
 
 ### Settings
 

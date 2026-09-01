@@ -86,7 +86,7 @@ Your feedback will help shape the future of Attention.
 
 ### Settings
 
-![Settings](screenshots/02-settings.jpg)
+![Settings](<img src="screenshots/02-settings.jpg" alt="Attention Dashboard" width="300">)
 
 ### My Focus
 

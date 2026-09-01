@@ -78,6 +78,38 @@ Your feedback will help shape the future of Attention.
 
 ---
 
+## Screenshots
+
+### Dashboard
+
+![Attention Dashboard](screenshots/01-dashboard.png)
+
+### Settings
+
+![Settings](screenshots/02-settings.png)
+
+### My Focus
+
+![My Focus](screenshots/03-my-focus.png)
+
+### Monitor the apps that matter
+
+![Monitored Apps](screenshots/04-select-the-apps.png)
+
+### Set a gentle reminder
+
+![Set Your Reminder](screenshots/05-reminder-time-limit.png)
+
+### Simple onboarding
+
+![Attention is Ready](screenshots/07-ready.png)
+
+### Why Attention exists
+
+![Why Attention exists](screenshots/06-manifesto.png)
+
+---
+
 ## 📱 Current Beta
 
 **Platform:** Android

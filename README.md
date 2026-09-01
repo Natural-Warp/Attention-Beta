@@ -80,33 +80,36 @@ Your feedback will help shape the future of Attention.
 
 ## Screenshots
 
-### Dashboard
-
-<img src="screenshots/dashboard.jpg" alt="Attention Dashboard" width="300">
-
-### Settings
-
-<img src="screenshots/02-settings.jpg" alt="Attention Settings" width="300">
-
-### My Focus
-
-![My Focus](screenshots/03-my-focus.jpg)
-
-### Monitor the apps that matter
-
-![Monitored Apps](screenshots/04-select-the-apps.jpg)
-
-### Set a gentle reminder
-
-![Set Your Reminder](screenshots/05-reminder-time-limit.jpg)
-
-### Simple onboarding
-
-![Attention is Ready](screenshots/07-ready.jpg)
-
-### Why Attention exists
-
-![Why Attention exists](screenshots/06-manifesto.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <strong>Dashboard</strong><br>
+      <img src="screenshots/01-dashboard.jpg" alt="Attention Dashboard" width="220">
+    </td>
+    <td align="center">
+      <strong>Settings</strong><br>
+      <img src="screenshots/02-settings.jpg" alt="Attention Settings" width="220">
+    </td>
+    <td align="center">
+      <strong>My Focus</strong><br>
+      <img src="screenshots/03-my-focus.jpg" alt="Attention My Focus" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Monitored Apps</strong><br>
+      <img src="screenshots/04-select-the-apps.jpg" alt="Attention Monitored Apps" width="220">
+    </td>
+    <td align="center">
+      <strong>Set Your Reminder</strong><br>
+      <img src="screenshots/05-reminder-time-limit.jpg" alt="Attention Reminder" width="220">
+    </td>
+    <td align="center">
+      <strong>Attention is Ready</strong><br>
+      <img src="screenshots/07-ready.jpg" alt="Attention is Ready" width="220">
+    </td>
+  </tr>
+</table>
 
 ---
 
